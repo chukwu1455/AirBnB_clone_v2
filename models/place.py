@@ -1,4 +1,4 @@
- the Place class."""
+the Place class."""
 from models.base_model import BaseModel
 
 
